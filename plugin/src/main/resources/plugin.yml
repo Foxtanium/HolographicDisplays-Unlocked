@@ -1,6 +1,6 @@
 name: HolographicDisplays
 main: me.filoghost.holographicdisplays.plugin.HolographicDisplays
-author: filoghost
+author: filoghost, Foxtanium.com, FJOX.win
 version: ${pluginVersion}
 api-version: 1.13
 
